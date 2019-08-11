@@ -13,7 +13,7 @@ Daftar 5 smartphone teratas Android dengan melihat beberapa tambahan baru di bul
 ## 1. Xiaomi Redmi Note 7 (Rp2.699.000 - Rp2.899.000)
 ![walking]({{ site.baseurl }}/assets/images/1-xiaomi-redmi-note-7.jpg)
 
-Mari kita mulai dengan `flag ship` kelas menengah yang masih tak terbantahkan yang diluncurkan oleh sub-merek Xiaomi - Redmi Note 7. Perangkat ini dilengkapi dengan layar 6.3 IPS LCD 16M colors engan rasio aspek 19.5:9 ~409 ppi.
+Mari kita mulai dengan `flagship` kelas menengah yang masih tak terbantahkan yang diluncurkan oleh sub-merek Xiaomi - Redmi Note 7. Perangkat ini dilengkapi dengan layar 6.3 IPS LCD 16M colors engan rasio aspek 19.5:9 ~409 ppi.
 
 Di bawah bodi Corning Gorilla Glass 5 yang mengkilap dan berkilau, kami kemudian menemukan Snapdragon 660 yang kuat digabungkan dengan minimum 4GB RAM dan penyimpanan internal 64GB, yang dapat diperluas melalui microSD.
 

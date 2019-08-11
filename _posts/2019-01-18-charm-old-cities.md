@@ -43,11 +43,6 @@ The Old Princely Court (Curtea Veche) was erected by Mircea Ciobanul in the mid-
 </tr>
 </tbody>
 </table>
-| Priority apples | Second priority | Third priority |
-|-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
 
 Bucharest finally became the permanent location of the Wallachian court after 1698 (starting with the reign of Constantin Brâncoveanu).
 

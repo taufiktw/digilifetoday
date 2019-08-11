@@ -16,37 +16,6 @@ Bucharest’s history alternated periods of development and decline from the ear
 
 #### Early 18th century woodcut of Bucharest
 
-| Priority apples | Second priority | Third priority |
-|-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
-
-<table>
-<colgroup>
-<col width="30%" />
-<col width="70%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th>Field</th>
-<th>Description</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td markdown="span">First column **fields**</td>
-<td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
-</tr>
-<tr>
-<td markdown="span">Second column **fields**</td>
-<td markdown="span">Some more descriptive text.
-</td>
-</tr>
-</tbody>
-</table>
-
-
 The Ottomans appointed Greek administrators (Phanariotes) to run the town from the 18th century. A short-lived revolt initiated by Tudor Vladimirescu in 1821 led to the end of the rule of Constantinople Greeks in Bucharest.[19]
 
 The Old Princely Court (Curtea Veche) was erected by Mircea Ciobanul in the mid-16th century. Under subsequent rulers, Bucharest was established as the summer residence of the royal court. During the years to come, it competed with Târgoviște on the status of capital city after an increase in the importance of southern Muntenia brought about by the demands of the suzerain power – the Ottoman Empire.

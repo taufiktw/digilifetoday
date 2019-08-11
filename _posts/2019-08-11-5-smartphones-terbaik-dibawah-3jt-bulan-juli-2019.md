@@ -10,8 +10,6 @@ image: assets/images/Under-200-7-2019.jpg
 ---
 Daftar 5 smartphone teratas Android dengan melihat beberapa tambahan baru di bulan Juli 2019, yang berarti opsi Anda menjadi lebih baik secara keseluruhan. Jadi, jika Anda mencari Smartphone Android di bawah 3 Jt, maka tetaplah mencari tahu apa yang bisa Anda dapatkan di segmen harga ini!
 
-# 5 Smartphones Terbaik Dibawah 3Jt Bulan Juli 2019 
-
 ## 1. Asus Zenfone 5
 As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
 

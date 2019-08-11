@@ -1,14 +1,15 @@
 ---
 title: Could we reinvent the charm of old cities
-date: 2019-01-18 00:00:00 Z
+date: 2019-01-18T00:00:00.000Z
 categories:
-- Jekyll
-- tutorial
+  - Jekyll
+  - tutorial
 tags:
-- sticky
+  - sticky
 layout: post
 author: taufiktw
 image: assets/images/home.jpg
+published: true
 ---
 
 Bucharest’s history alternated periods of development and decline from the early settlements in antiquity until its consolidation as the national capital of Romania late in the 19th century. First mentioned as the “Citadel of București” in 1459, it became the residence of the famous Wallachian prince Vlad III the Impaler.
@@ -42,7 +43,11 @@ The Old Princely Court (Curtea Veche) was erected by Mircea Ciobanul in the mid-
 </tr>
 </tbody>
 </table>
-
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
 
 Bucharest finally became the permanent location of the Wallachian court after 1698 (starting with the reign of Constantin Brâncoveanu).
 

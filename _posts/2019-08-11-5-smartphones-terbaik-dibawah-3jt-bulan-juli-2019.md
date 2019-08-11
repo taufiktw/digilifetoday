@@ -10,14 +10,16 @@ image: assets/images/Under-200-7-2019.jpg
 ---
 Daftar 5 smartphone teratas Android dengan melihat beberapa tambahan baru di bulan Juli 2019, yang berarti opsi Anda menjadi lebih baik secara keseluruhan. Jadi, jika Anda mencari Smartphone Android di bawah 3 Jt, maka tetaplah mencari tahu apa yang bisa Anda dapatkan di segmen harga ini!
 
-## 1. Asus Zenfone 5
-![walking]({{ site.baseurl }}/assets/images/1-zenfone-5btb.png)
-As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:
+## 1. Xiaomi Redmi Note 7 (Rp2.699.000 - Rp2.899.000)
+![walking]({{ site.baseurl }}/assets/images/1-xiaomi-redmi-note-7.jpg)
 
-+ ~~strike through~~
-+ ==highlight==
-+ \*escaped characters\*
+Mari kita mulai dengan `flag ship` kelas menengah yang masih tak terbantahkan yang diluncurkan oleh sub-merek Xiaomi - Redmi Note 7. Perangkat ini dilengkapi dengan layar 6.3 IPS LCD 16M colors engan rasio aspek 19.5:9 ~409 ppi.
 
+Di bawah bodi Corning Gorilla Glass 5 yang mengkilap dan berkilau, kami kemudian menemukan Snapdragon 660 yang kuat digabungkan dengan minimum 4GB RAM dan penyimpanan internal 64GB, yang dapat diperluas melalui microSD.
+
+Titik penjualan utama perangkat ini adalah kamera, datang dengan resolusi 48MP, Redmi Note 7 tidak memiliki saingan dalam kisaran harga. 48MP memberikan foto yang sangat tajam saat subjek menyala dengan baik, sementara dalam skenario yang lebih gelap piksel digabungkan menjadi 1,6um yang lebih besar untuk kualitas yang lebih baik. Di bagian depan, kamera selfie 13MP.
+
+Akhirnya, smartphone ini mengemas baterai berkapasitas besar 4000mAh, dengan type port USB Type-C.
 
 ## Writing code blocks
 

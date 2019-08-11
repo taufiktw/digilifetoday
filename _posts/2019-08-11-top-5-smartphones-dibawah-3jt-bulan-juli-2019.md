@@ -8,13 +8,7 @@ layout: post
 author: taufiktw
 image: assets/images/Under-200-7-2019.jpg
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-There are lots of powerful things you can do with the Markdown editor. If you've gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!
-
-As with the last post about the editor, you'll want to be actually editing this post as you read it so that you can see all the Markdown code we're using.
-
+Daftar 5 smartphone teratas Android dengan melihat beberapa tambahan baru di bulan Juli 2019, yang berarti opsi Anda menjadi lebih baik secara keseluruhan. Jadi, jika Anda mencari Smartphone Android di bawah 3 Jt, maka tetaplah mencari tahu apa yang bisa Anda dapatkan di segmen harga ini!
 
 ## Special formatting
 

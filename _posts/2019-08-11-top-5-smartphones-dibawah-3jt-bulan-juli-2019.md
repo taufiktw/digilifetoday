@@ -5,7 +5,7 @@ categories:
   - Jekyll
   - tutorial
 layout: post
-author: sal
+author: taufiktw
 image: assets/images/Under-200-7-2019.jpg
 ---
 ## A New Post

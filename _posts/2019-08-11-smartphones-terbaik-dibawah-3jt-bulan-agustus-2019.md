@@ -38,7 +38,7 @@ Samsung sepertinya tidak ingin kehilangan pangsa pasar kelas menengah dimana dit
 
 Sementara itu kamera belakang mengusung dual kamera 16MP+5MP ultrawide, sedangkan kamera depan mengusung 16MP. Selain itu ponsel ini dilengkapi dengan baterai 4000mAh yang mendukung fast charging 15W serta type port USB Type-C, serta tidak ada NFC. 
 
-## 3. Asus ZenFone Max Pro (M2) (4GB/64GB)
+### 3. Asus ZenFone Max Pro (M2) (4GB/64GB)
 Release Desember 2018, 
 ``
 Kisaran Harga : Rp2.9Jt
@@ -54,7 +54,7 @@ Spesifikasi kameranya hanya sedikit dibawah Samsung Galaxy A30, yaitu 12MP+5MP d
 
 Salah satu faktor kelebihan ponsel ini adalah kapasitas batterynya sudah 5000mAh, sayangnya masih menggunakan type port micro-USB serta fast chargingnya masih 10W dan lagi lagi belum ada NFC.
 
-## 4. Huawei Nova 3i (4GB/128GB)
+### 4. Huawei Nova 3i (4GB/128GB)
 Release Agustus 2018,
 ``
 Kisaran Harga : Rp2.7Jt
@@ -70,7 +70,7 @@ Huawei menawarkan fitur kamera yang menarik, dual kamera depan dan belakang, di 
 
 Salah satu faktor kekurangan ponsel ini adalah kapasitas batterynya hanya 3340mAh, type port micro-USB serta fast chargingnya masih 10W dan juga belum ada NFC.
 
-## 5. Vivo Y17 (4GB/128GB)
+### 5. Vivo Y17 (4GB/128GB)
 Release April 2019, 
 ``
 Kisaran Harga : Rp2.9Jt

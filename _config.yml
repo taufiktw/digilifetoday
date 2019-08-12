@@ -26,7 +26,7 @@ favicon: assets/images/favicon.ico
 baseurl: "https://digilifetoday.com"
 disqus: digilifetoday.com
 email: wowthemesnet@gmail.com
-mailchimp-list: https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b
+mailchimp-list: https://mailchi.mp/282edcb69770/digilifetoday
 include:
 - _pages
 permalink: "/:title/"

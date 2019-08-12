@@ -13,6 +13,7 @@ Daftar 5 smartphone teratas Android dengan melihat penurunan harga yang disebabk
 ## 1. Xiaomi Redmi Note 7 (4GB/64GB)
 ``
 Release Januari 2019
+
 Kisaran Harga: Rp2.7Jt - Rp2.9Jt
 ``
 

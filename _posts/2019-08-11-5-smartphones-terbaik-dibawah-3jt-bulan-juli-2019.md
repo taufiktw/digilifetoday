@@ -1,6 +1,6 @@
 ---
 published: true
-date: 2019-01-25T00:00:00.000Z
+date: {}
 categories:
   - Jekyll
   - tutorial
@@ -17,7 +17,7 @@ Kisaran Harga: Rp2.7Jt - Rp2.9Jt
 
 ![walking]({{ site.baseurl }}/assets/images/1-xiaomi-redmi-note-7.jpg)
 
-Mari kita mulai dengan `flagship` kelas menengah yang masih tak terbantahkan yang diluncurkan oleh sub-merek Xiaomi - Redmi Note 7. Perangkat ini dilengkapi dengan layar IPS LCD FHD+ 6.3 inches(~81.4% screen-to-body ratio) 16M colors dengan aspek ratio 19.5:9 ~409 ppi dan Corning Gorilla Glass 5.
+Mari kita mulai dengan `flagship` kelas menengah yang masih tak terbantahkan yang diluncurkan oleh sub-merek Xiaomi - Redmi Note 7. Perangkat ini dilengkapi dengan layar IPS LCD FHD+ 6.3 inchi (~81.4% screen-to-body ratio) 16M colors dengan aspek ratio 19.5:9 ~409 ppi dan Corning Gorilla Glass 5.
 
 Di bawah bodi Corning Gorilla Glass 5 yang mengkilap dan berkilau, kemudian chipset Snapdragon 660 dan GPU Adreno 512.
 
@@ -32,7 +32,7 @@ Kisaran Harga : Rp2.7Jt - Rp2.9Jt
 
 ![walking]({{ site.baseurl }}/assets/images/2-samsung-galaxy-a30.jpg)
 
-Samsung sepertinya tidak ingin kehilangan pangsa pasar kelas menengah dimana ditunjukkan dengan munculnya Galaxy A30, untuk menantang merk merk seperti Xiaomi, Vivo dan Oppo. Hal yang menarik dapat dilihat dari spesifikasi layar, mengusung layar Super AMOLED 6.4 inches (~84.9% screen-to-body ratio) 16M colors dengan aspek ratio 19.5:9 ~403 ppi dan Corning Gorilla Glass 5 serta Chipset Exynos 7904 dengan GPU Mali-G71 MP2.
+Samsung sepertinya tidak ingin kehilangan pangsa pasar kelas menengah dimana ditunjukkan dengan munculnya Galaxy A30, untuk menantang merk merk seperti Xiaomi, Vivo dan Oppo. Hal yang menarik dapat dilihat dari spesifikasi layar, mengusung layar Super AMOLED 6.4 inchi (~84.9% screen-to-body ratio) 16M colors dengan aspek ratio 19.5:9 ~403 ppi dan Corning Gorilla Glass 5 serta Chipset Exynos 7904 dengan GPU Mali-G71 MP2.
 
 Sementara itu kamera belakang mengusung dual kamera 16 MP-f/1.7-PDAF dan 5 MP-f/2.2-12mm-ultrawide, sedangkan kamera depan mengusung 16 MP-f/2.0. Selain itu handset ini dilengkapi dengan baterai 4000mAh yang mendukung fast charging 15W serta type port USB Type-C, serta tidak ada NFC. 
 
@@ -43,13 +43,28 @@ Kisaran Harga : Rp2.9Jt
 
 ![walking]({{ site.baseurl }}/assets/images/3-zenfone-max-pro-m2.jpg)
 
-Bisa dibilang Asus yang memulai persaingan handset di kelas 3Jt-an, dimana pada Desember 2018 meluncurkan ZenFone Max Pro (M2) untuk menyasar segmentasi gamers, dengan tidak melupakan fitur kamera yang cukup mumpuni.
+Bisa dibilang Asus merespon tantangan Huawei untuk segmen handset gamers di kelas 3Jt-an, dimana pada Desember 2018 meluncurkan ZenFone Max Pro (M2) untuk menyasar segmentasi gamers kelas menengah, dengan tidak melupakan fitur kamera yang cukup mumpuni untuk menyaingin Huawei Nova 3i yang sudah release Agustus 2018.
 
-Dibekali dengan Chipset Snapdragon 660AIE dan GPU Adreno 512, layar IPS LCD FHD+ 6.3 inches(~90% screen-to-body ratio) 16M colors dengan aspek ratio 19:9 ~403 ppi dan Corning Gorilla Glass 6 cukup sebagai senjatanya.
+Dibekali dengan Chipset Snapdragon 660AIE dan GPU Adreno 512, layar IPS LCD FHD+ 6.3 inchi (~90% screen-to-body ratio) 16M colors dengan aspek ratio 19:9 ~403 ppi dan Corning Gorilla Glass 6 cukup sebagai senjatanya.
 
 Spesifikasi kameranya hanya sedikit dibawah Samsung Galaxy A30, yaitu 12 MP-f/1.8-1/2.9"-1.25μm,-PDAF dan 5 MP-f/2.4-1.12µm-depth sensor serta kamera depan 13MP.
 
 Salah satu faktor kelebihan handset ini adalah kapasita batterynya sudah 5000mAh, sayangnya masih menggunakan type port micro-USB serta fast chargingnya masih 10W dan lagi lagi belum ada NFC.
+
+## 4. Huawei Nova 3i (4GB/128BG), Release Agustus 2018
+``
+Kisaran Harga : Rp2.7Jt
+``
+
+![walking]({{ site.baseurl }}/assets/images/4-huawei-nova3i.jpg)
+
+Walaupun bisa dibilang produk tahun lalu, tetapi handset ini bisa jadi pilihan bagi anda yang menginginkan storage yg lebih besar. dengan menawarkan storage 128GB dan layar yang cukup bagus, jadi senjata utamanya.
+
+Dibekali dengan Chipset Hisilicon Kirin 710 12nm dan GPU Mali-G51 MP4, layar IPC LCD FHD+ 6.3 inchi (~82.2% screen-to-body ratio) 16M colors dengan aspek ratio 19.5:9 ~409 ppi, tetapi belum Corning Gorilla Glass.
+
+Huawei menawarkan fitur kamera yang menarik, dobel kamera depan dan belakang, di sisi kamera belakang 16 MP-f/2.2,-PDAF dan 2MP-depth sensor sedangkan untuk kamera depan 13MP-f/2.0 dan 2MP-depth sensor.
+
+Salah satu faktor kekurangan handset ini adalah kapasita batterynya hanya 3340mAh, type port micro-USB serta fast chargingnya masih 10W dan juga belum ada NFC.
 
 
 ## Reference lists

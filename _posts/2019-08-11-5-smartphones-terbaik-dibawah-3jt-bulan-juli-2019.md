@@ -1,6 +1,6 @@
 ---
 published: true
-date: {}
+date: 2019-01-25T00:00:00.000Z
 categories:
   - Gadget
   - Smartphones

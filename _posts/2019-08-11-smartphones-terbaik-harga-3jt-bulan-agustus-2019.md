@@ -83,5 +83,5 @@ Akhirnya, ponsel terakhir di kategori ini, yang baru saja release Juli 2019, pen
 Pembeda dengan yang lain, Vivo menawarkan di ponsel ini triple kamera belakang yang terdiri dari 16MP+8MP(ultrawide)+2MP(depth sensor). Sedangkan kamera depan mengusung 32MP. Selain itu battery yang ditawarkan juga cukup, dibekali dengan battery 5000mAh, type port micro-USB serta fast chargingnya 18W dan seperti lainnya belum ada NFC.
 
 Di list sebelumnya ponsel yang masuk dalam kategori harga 3jt an :
-~~Huawei Nova 3i~~
-~~Vivo Y17~~
++ ~~Huawei Nova 3i~~
++ ~~Vivo Y17~~

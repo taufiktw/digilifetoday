@@ -1,14 +1,15 @@
 ---
 title: Markdown Example
-date: 2019-01-19 00:00:00 Z
+date: 2019-01-19T00:00:00.000Z
 categories:
-- Jekyll
-- tutorial
+  - Jekyll
+  - tutorial
 tags:
-- featured
+  - featured
 layout: post
-author: jane
+author: taufiktw
 image: assets/images/6.jpg
+published: true
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated. Something.

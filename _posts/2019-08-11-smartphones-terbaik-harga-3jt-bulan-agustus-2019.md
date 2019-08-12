@@ -6,7 +6,7 @@ categories:
   - Smartphones
 layout: post
 author: taufiktw
-image: assets/images/Under-200-7-2019.jpg
+image: assets/images/smartphones-3jt.png
 ---
 `Update : 12 Agustus 2019`
 

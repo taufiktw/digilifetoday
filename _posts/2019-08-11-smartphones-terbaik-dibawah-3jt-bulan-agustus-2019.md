@@ -26,7 +26,7 @@ Titik penjualan utama perangkat ini adalah kamera belakang, mengusung dual kamer
 
 Selain itu, smartphone ini mengemas baterai berkapasitas besar 4000mAh, fast charging 18W dengan type port USB Type-C, hanya saja sayangnya belum ada NFC.
 
-## 2. Samsung Galaxy A30 (4GB/64GB)
+### 2. Samsung Galaxy A30 (4GB/64GB)
 Release Maret 2019, 
 ``
 Kisaran Harga : Rp2.7Jt - Rp2.9Jt

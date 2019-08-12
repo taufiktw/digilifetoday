@@ -1,12 +1,12 @@
 ---
 published: true
-date: {}
+date: 2019-08-11T00:00:00.000Z
 categories:
   - Gadget
   - Smartphones
 layout: post
 author: taufiktw
-image: assets/images/smartphones-3jt.png
+image: assets/images/smartphone-3jt.png
 ---
 Daftar smartphone android di range harga 3jt cukup menarik, imbas penurunan harga yang disebabkan karena munculnya beberapa tipe baru yang seolah olah membuat stok produk lama harus segera dihabiskan, kondisi ini merupakan berita bagus bagi anda, yang artinya pilihan ponsel dengan budget minimal bisa mendapatkan spek yang lumayan bagus. Jadi, jika Anda mencari Smartphone Android di range harga 3 Jt, maka lanjutkan baca postingan ini !
 

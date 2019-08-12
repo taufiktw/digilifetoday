@@ -8,7 +8,7 @@ layout: post
 author: taufiktw
 image: assets/images/Under-200-7-2019.jpg
 ---
-`update : 12 Agustus 2019`
+`Update : 12 Agustus 2019`
 
 Daftar smartphone android di range harga 3jt cukup menarik, imbas penurunan harga yang disebabkan karena munculnya beberapa tipe baru yang seolah olah membuat stok produk lama harus segera dihabiskan, kondisi ini merupakan berita bagus bagi anda, yang artinya pilihan ponsel dengan budget minimal bisa mendapatkan spek yang lumayan bagus. Jadi, jika Anda mencari Smartphone Android di range harga 3 Jt, maka lanjutkan baca postingan ini !
 
@@ -83,5 +83,6 @@ Akhirnya, ponsel terakhir di kategori ini, yang baru saja release Juli 2019, pen
 Pembeda dengan yang lain, Vivo menawarkan di ponsel ini triple kamera belakang yang terdiri dari 16MP+8MP(ultrawide)+2MP(depth sensor). Sedangkan kamera depan mengusung 32MP. Selain itu battery yang ditawarkan juga cukup, dibekali dengan battery 5000mAh, type port micro-USB serta fast chargingnya 18W dan seperti lainnya belum ada NFC.
 
 Di list sebelumnya ponsel yang masuk dalam kategori harga 3jt an :
+
 + ~~Huawei Nova 3i~~
 + ~~Vivo Y17~~

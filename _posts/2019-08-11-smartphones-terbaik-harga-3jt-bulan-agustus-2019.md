@@ -12,9 +12,9 @@ image: assets/images/smartphone-3jt.png
 Daftar smartphone android di range harga 3jt cukup menarik, imbas penurunan harga yang disebabkan karena munculnya beberapa tipe baru yang seolah olah membuat stok produk lama harus segera dihabiskan, kondisi ini merupakan berita bagus bagi anda, yang artinya pilihan ponsel dengan budget minimal bisa mendapatkan spek yang lumayan bagus. Jadi, jika Anda mencari Smartphone Android di range harga 3 Jt, maka lanjutkan baca postingan ini !
 
 ### 1. Xiaomi Redmi Note 7 (4GB/64GB)
-**Release Januari 2019, **
+**Release Januari 2019**
 ``
-Kisaran Harga: Rp2.7Jt - Rp2.9Jt
+, Kisaran Harga: Rp2.7Jt - Rp2.9Jt
 ``
 
 ![walking]({{ site.baseurl }}/assets/images/1-xiaomi-redmi-note-7.jpg)
@@ -28,9 +28,9 @@ Titik penjualan utama perangkat ini adalah kamera belakang, mengusung dual kamer
 Selain itu, smartphone ini mengemas baterai berkapasitas besar 4000mAh, fast charging 18W dengan type port USB Type-C, hanya saja sayangnya belum ada NFC.
 
 ### 2. Samsung Galaxy A30 (4GB/64GB)
-**Release Maret 2019, **
+**Release Maret 2019**
 ``
-Kisaran Harga : Rp2.7Jt - Rp2.9Jt
+, Kisaran Harga : Rp2.7Jt - Rp2.9Jt
 ``
 
 ![walking]({{ site.baseurl }}/assets/images/2-samsung-galaxy-a30.jpg)
@@ -40,9 +40,9 @@ Samsung sepertinya tidak ingin kehilangan pangsa pasar kelas menengah dimana dit
 Sementara itu kamera belakang mengusung dual kamera 16MP+5MP ultrawide, sedangkan kamera depan mengusung 16MP. Selain itu ponsel ini dilengkapi dengan baterai 4000mAh yang mendukung fast charging 15W serta type port USB Type-C, serta tidak ada NFC. 
 
 ### 3. Asus ZenFone Max Pro (M2) (4GB/64GB)
-**Release Desember 2018, **
+**Release Desember 2018**
 ``
-Kisaran Harga : Rp2.9Jt
+, Kisaran Harga : Rp2.9Jt
 ``
 
 ![walking]({{ site.baseurl }}/assets/images/3-zenfone-max-pro-m2.jpg)
@@ -56,9 +56,9 @@ Spesifikasi kameranya hanya sedikit dibawah Samsung Galaxy A30, yaitu 12MP+5MP d
 Salah satu faktor kelebihan ponsel ini adalah kapasitas batterynya sudah 5000mAh, sayangnya masih menggunakan type port micro-USB serta fast chargingnya masih 10W dan lagi lagi belum ada NFC.
 
 ### 4. Oppo F11 (4GB/64GB)
-**Release Mei 2019, **
+**Release Mei 2019**
 ``
-Kisaran Harga : Rp2.9Jt
+, Kisaran Harga : Rp2.9Jt
 ``
 
 ![walking]({{ site.baseurl }}/assets/images/4-oppo-f11.png)
@@ -70,9 +70,9 @@ Selain itu ponsel ini memiliki layar besar LTPS IPS LCD 6.53 inchi (~85.3% scree
 Salah satu faktor kelebihan ponsel ini adalah kapasitas batterynya sudah cukup besar 4020mAh, sayangnya masih menggunakan type port micro-USB tapi fitur fast chargingnya sudah 20W (VOOC 3.0) paling tinggi speknya dibandingkan ponsel di kelas ini, selain itu belum ada NFC.
 
 ### 5. Vivo Z1 Pro (4GB/64GB)
-**Release Juli 2019, **
+**Release Juli 2019**
 ``
-Kisaran Harga : Rp3.0Jt
+, Kisaran Harga : Rp3.0Jt
 ``
 
 ![walking]({{ site.baseurl }}/assets/images/5-vivo-z1pro.jpg)

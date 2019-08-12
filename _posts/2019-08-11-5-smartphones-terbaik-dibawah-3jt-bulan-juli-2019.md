@@ -14,6 +14,7 @@ Daftar 5 smartphone teratas Android dengan melihat penurunan harga yang disebabk
 ``
 Release Januari 2019
 ``
+
 ``
 Kisaran Harga: Rp2.7Jt - Rp2.9Jt
 ``

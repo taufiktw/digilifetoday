@@ -1,12 +1,13 @@
 ---
 title: Quick Start Guide
-date: 2019-01-20 00:00:00 Z
+date: 2019-01-20T00:00:00.000Z
 categories:
-- Jekyll
-- tutorial
+  - Jekyll
+  - tutorial
 layout: post
-author: sal
+author: taufiktw
 image: assets/images/12.jpg
+published: true
 ---
 
 If you already have a full Ruby development environment with all headers and RubyGems installed (see Jekyll’s requirements), you can create a new Jekyll site by doing the following:

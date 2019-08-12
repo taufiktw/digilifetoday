@@ -1,11 +1,12 @@
 ---
 title: About Bundler
-date: 2019-01-29 00:00:00 Z
+date: 2019-01-29T00:00:00.000Z
 categories:
-- Jekyll
+  - Jekyll
 layout: post
-author: sal
+author: taufiktw
 image: assets/images/2.jpg
+published: true
 ---
 
 `gem install bundler` installs the bundler gem through RubyGems. You only need to install it once - not every time you create a new Jekyll project. Here are some additional details:

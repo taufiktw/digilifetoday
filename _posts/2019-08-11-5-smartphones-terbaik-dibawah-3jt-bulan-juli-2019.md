@@ -1,9 +1,9 @@
 ---
 published: true
-date: {}
+date: 2019-01-25T00:00:00.000Z
 categories:
-  - Jekyll
-  - tutorial
+  - Gadget
+  - Smartphones
 layout: post
 author: taufiktw
 image: assets/images/Under-200-7-2019.jpg

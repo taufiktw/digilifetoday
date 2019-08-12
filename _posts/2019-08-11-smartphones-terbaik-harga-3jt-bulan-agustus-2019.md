@@ -13,6 +13,7 @@ Daftar smartphone android di range harga 3jt cukup menarik, imbas penurunan harg
 
 ### 1. Xiaomi Redmi Note 7 (4GB/64GB)
 **Release Januari 2019**
+
 ``
 Kisaran Harga: Rp2.7Jt - Rp2.9Jt
 ``
@@ -29,6 +30,7 @@ Selain itu, smartphone ini mengemas baterai berkapasitas besar 4000mAh, fast cha
 
 ### 2. Samsung Galaxy A30 (4GB/64GB)
 **Release Maret 2019**
+
 ``
 Kisaran Harga : Rp2.7Jt - Rp2.9Jt
 ``
@@ -41,6 +43,7 @@ Sementara itu kamera belakang mengusung dual kamera 16MP+5MP ultrawide, sedangka
 
 ### 3. Asus ZenFone Max Pro (M2) (4GB/64GB)
 **Release Desember 2018**
+
 ``
 Kisaran Harga : Rp2.9Jt
 ``
@@ -57,6 +60,7 @@ Salah satu faktor kelebihan ponsel ini adalah kapasitas batterynya sudah 5000mAh
 
 ### 4. Oppo F11 (4GB/64GB)
 **Release Mei 2019**
+
 ``
 Kisaran Harga : Rp2.9Jt
 ``
@@ -71,6 +75,7 @@ Salah satu faktor kelebihan ponsel ini adalah kapasitas batterynya sudah cukup b
 
 ### 5. Vivo Z1 Pro (4GB/64GB)
 **Release Juli 2019**
+
 ``
 Kisaran Harga : Rp3.0Jt
 ``

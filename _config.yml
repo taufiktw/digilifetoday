@@ -20,12 +20,12 @@ defaults:
   values:
     layout: page
 name: Digilifetoday
-description: Mundana is a free Jekyll theme for awesome people like you, Medium like.
+description: Let Us Talk About Digital Life .
 logo: assets/images/logo.png
 favicon: assets/images/favicon.ico
 baseurl: "https://digilifetoday.com"
 disqus: digilifetoday.com
-email: wowthemesnet@gmail.com
+email: taufiktw@gmail.com
 mailchimp-list: https://mailchi.mp/282edcb69770/digilifetoday
 include:
 - _pages
@@ -37,7 +37,7 @@ plugins:
 - jekyll-seo-tag
 authors:
   taufiktw:
-    name: Taufiktw
+    name: taufiktw
     site: https://digilifetoday.com
     avatar: "/assets/images/avatar3.jpg"
     bio: Hi, I am Taufiktw, the author of Digilifetoday, I hope you like it!

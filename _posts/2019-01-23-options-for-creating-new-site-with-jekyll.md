@@ -1,12 +1,13 @@
 ---
 title: Options for creating a new site with Jekyll
-date: 2019-01-23 00:00:00 Z
+date: 2019-01-23T00:00:00.000Z
 categories:
-- Jekyll
-- tutorial
+  - Jekyll
+  - tutorial
 layout: post
-author: jane
+author: taufiktw
 image: assets/images/13.jpg
+published: true
 ---
 
 `jekyll new <PATH>` installs a new Jekyll site at the path specified (relative to current directory). In this case, Jekyll will be installed in a directory called `myblog`. Here are some additional details:

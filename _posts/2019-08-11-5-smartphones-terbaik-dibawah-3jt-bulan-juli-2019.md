@@ -11,7 +11,7 @@ image: assets/images/Under-200-7-2019.jpg
 Daftar 5 smartphone teratas Android dengan melihat penurunan harga yang disebabkan karena munculnya beberapa tipe baru yang seolah olah membuat stok produk lama harus segera dihabiskan, kondisi ini merupakan berita bagus bagi anda, yang artinya pilihan handset dengan budget minimal bisa mendapatkan spek yang lumayan bagus. Jadi, jika Anda mencari Smartphone Android di bawah 3 Jt, maka lanjutkan baca postingan ini !
 
 ## 1. Xiaomi Redmi Note 7 (4GB/64GB)
-Release Januari 2019
+Release Januari 2019, 
 ``
 Kisaran Harga: Rp2.7Jt - Rp2.9Jt
 ``
@@ -27,8 +27,8 @@ Titik penjualan utama perangkat ini adalah kamera belakang, mengusung dual kamer
 Selain itu, smartphone ini mengemas baterai berkapasitas besar 4000mAh, fast charging 18W dengan type port USB Type-C, hanya saja sayangnya belum ada NFC.
 
 ## 2. Samsung Galaxy A30 (4GB/64GB)
+Release Maret 2019, 
 ``
-Release Maret 2019
 Kisaran Harga : Rp2.7Jt - Rp2.9Jt
 ``
 
@@ -39,8 +39,8 @@ Samsung sepertinya tidak ingin kehilangan pangsa pasar kelas menengah dimana dit
 Sementara itu kamera belakang mengusung dual kamera 16MP+5MP ultrawide, sedangkan kamera depan mengusung 16MP. Selain itu handset ini dilengkapi dengan baterai 4000mAh yang mendukung fast charging 15W serta type port USB Type-C, serta tidak ada NFC. 
 
 ## 3. Asus ZenFone Max Pro (M2) (4GB/64GB)
+Release Desember 2018, 
 ``
-Release Desember 2018
 Kisaran Harga : Rp2.9Jt
 ``
 
@@ -55,8 +55,8 @@ Spesifikasi kameranya hanya sedikit dibawah Samsung Galaxy A30, yaitu 12MP+5MP d
 Salah satu faktor kelebihan handset ini adalah kapasitas batterynya sudah 5000mAh, sayangnya masih menggunakan type port micro-USB serta fast chargingnya masih 10W dan lagi lagi belum ada NFC.
 
 ## 4. Huawei Nova 3i (4GB/128GB)
+Release Agustus 2018,
 ``
-Release Agustus 2018
 Kisaran Harga : Rp2.7Jt
 ``
 
@@ -71,8 +71,8 @@ Huawei menawarkan fitur kamera yang menarik, dual kamera depan dan belakang, di 
 Salah satu faktor kekurangan handset ini adalah kapasitas batterynya hanya 3340mAh, type port micro-USB serta fast chargingnya masih 10W dan juga belum ada NFC.
 
 ## 5. Vivo Y17 (4GB/128GB)
+Release April 2019, 
 ``
-Release April 2019
 Kisaran Harga : Rp2.9Jt
 ``
 

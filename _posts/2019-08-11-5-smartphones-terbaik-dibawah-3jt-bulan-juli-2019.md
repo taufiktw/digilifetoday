@@ -11,10 +11,7 @@ image: assets/images/Under-200-7-2019.jpg
 Daftar 5 smartphone teratas Android dengan melihat penurunan harga yang disebabkan karena munculnya beberapa tipe baru yang seolah olah membuat stok produk lama harus segera dihabiskan, kondisi ini merupakan berita bagus bagi anda, yang artinya pilihan handset dengan budget minimal bisa mendapatkan spek yang lumayan bagus. Jadi, jika Anda mencari Smartphone Android di bawah 3 Jt, maka lanjutkan baca postingan ini !
 
 ## 1. Xiaomi Redmi Note 7 (4GB/64GB)
-``
 Release Januari 2019
-``
-
 ``
 Kisaran Harga: Rp2.7Jt - Rp2.9Jt
 ``

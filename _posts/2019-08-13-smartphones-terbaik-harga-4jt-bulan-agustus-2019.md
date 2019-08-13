@@ -1,5 +1,5 @@
 ---
-title: Smartphones Trebaik Harga 4Jt-an Bulan Agustus 2019
+title: Smartphones Terbaik Harga 4Jt-an Bulan Agustus 2019
 published: true
 date: 2019-08-13T00:00:00.000Z
 categories:

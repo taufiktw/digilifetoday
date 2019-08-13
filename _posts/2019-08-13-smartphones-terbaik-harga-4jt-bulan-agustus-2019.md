@@ -53,7 +53,7 @@ Kapasitas batterynya 4000mAh fast charging, hanya saja sayangnya masih menggunak
 , Kisaran Harga : Rp3.6-3.7Jt
 ``
 
-![walking]({{ site.baseurl }}/assets/images/2-oppo-k3.png)
+![walking]({{ site.baseurl }}/assets/images/2-oppo-k3.jpg)
 
 Oppo juga mengeluarkan produk baru di agustus 2019 dengan spesifikasi yang ditawarkan Chipset Snapdragon Snapdragon 710 (10 nm) dan GPU Adreno 616, layar IPS LCD FHD+ 6.5 inchi 1020x2340 pixels (~85.5% screen-to-body ratio) 16M colors dengan aspek ratio 19.5:9 ~394ppi dan Corning Gorilla Glass 5.
 

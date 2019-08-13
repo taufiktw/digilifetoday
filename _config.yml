@@ -23,7 +23,7 @@ name: Digilifetoday
 description: Let Us Talk About Digital Life .
 logo: assets/images/logo.png
 favicon: assets/images/favicon.ico
-baseurl: "https://digilifetoday.com"
+baseurl: "/"
 disqus: taufiktw-github-io
 email: taufiktw@gmail.com
 mailchimp-list: https://mailchi.mp/282edcb69770/digilifetoday

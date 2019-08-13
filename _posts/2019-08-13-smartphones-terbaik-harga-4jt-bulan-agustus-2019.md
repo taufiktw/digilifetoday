@@ -1,5 +1,12 @@
 ---
-published: false
+published: true
+date: 2019-08-13T00:00:00.000Z
+categories:
+  - Gadget
+  - Smartphones
+layout: post
+author: taufiktw
+image: assets/images/smartphone-4jt.png
 ---
 Welcome Nda..  kali ini akan ditampilkan pilihan smartphone android terbaik di range harga 4jt edisi Agustus 2019.
 Walaupun Tidak ada gebrakan flagship ponsel baru di range harga ini, produsen ponsel menawarkan spesifikasi dan fitur yang cukup menarik bagi anda yang memiliki budget sekitar 4jt untuk beli ponsel, jadi kita mulai saja !

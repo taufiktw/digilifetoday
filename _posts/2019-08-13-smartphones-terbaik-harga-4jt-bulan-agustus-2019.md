@@ -33,7 +33,7 @@ Sisi kamera belakang dibekali dengan triple kamera 25MP+8MP(ultrawide)+5MP(depth
 
 Nama P30 Lite identik dengan kesan versi murahnya P30, tidak masalah karena spesifikasi yang diusung juga sudah termasuk mumpuni. Dibekali dengan Chipset Hisilicon Kirin 710 (12 nm) dan GPU Mali-G51 MP4, layar LTPS IPS LCD 6.15 inchi 1080x2312 pixels (~84.2% screen-to-body ratio) 16M colors ~415ppi, hanya saja belum terproteksi Corning Gorilla Glass.
 
-Point lebih ditawarkan Huawei untuk kamera belakang triple 48MP+8MP(ultrawide)+2MP(depth sensor) dan kamera depan 32MP. Untuk urusan battery, sangat disayangkan karena hanya dibekali baterai 3340mAh dengan  dukungan fast charging 18W serta type port USB Type-C, dan untuk ponsek ini sudah memiliki NFC. 
+Point lebih ditawarkan Huawei untuk kamera belakang triple 48MP+8MP(ultrawide)+2MP(depth sensor) dan kamera depan 32MP. Untuk urusan battery, sangat disayangkan karena hanya dibekali baterai 3340mAh dengan  dukungan fast charging 18W serta type port USB Type-C, dan untuk ponsel ini sudah memiliki NFC. 
 
 ### 3. Vivo V15 (6GB/64GB)
 \*Release Maret 2019\*

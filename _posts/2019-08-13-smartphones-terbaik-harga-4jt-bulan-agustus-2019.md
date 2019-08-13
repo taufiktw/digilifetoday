@@ -73,4 +73,4 @@ Ponsel terakhir di range harga 4Jt, satu ponsel besutan sub-brand Oppo electroni
 
 Kamera belakang dual 16MP+5MP(depth sensor) serta kamera depan 25MP. Di sector battery, ponsel ini memiliki battery 4045mAh fast charging 20W (VOOC 3.0), hanya saja sayangnya masih menggunakan type port micro-USB serta fast chargingnya masih 10W dan sayangnya belum ada NFC.
 
-Cukup sekian untuk ponsel terbaik versi digilifetoday untuk bulan Agustus 2019, semoga anda meneukan ponsel sesuai dengan yang anda inginkan, jika anda menemukan ponsel yang lebih layak masuk dalam kategori ini bisa tulis komen dibawah ini!
+Cukup sekian untuk ponsel terbaik di range harga 4Jt untuk bulan Agustus 2019, semoga anda menemukan ponsel sesuai dengan kebutuhan yang anda inginkan, jika anda menemukan ponsel yang lebih layak masuk dalam kategori ini bisa tulis komen dibawah ini!

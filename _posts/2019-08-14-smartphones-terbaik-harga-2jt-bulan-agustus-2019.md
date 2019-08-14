@@ -43,7 +43,7 @@ Sementara itu kamera belakang mengusung dual kamera 13MP+2MP-depth sensor, sedan
 , Kisaran Harga : Rp2.7Jt - Rp2.9Jt
 ``
 
-![walking]({{ site.baseurl }}/assets/images/3-samsung-galaxy-a20.jpg)
+![walking]({{ site.baseurl }}/assets/images/3-samsung-a20.jpg)
 
 Jika Anda bukan penggemar Xiaomi dan Oppo, maka Samsung A20 bisa menjadi pilihan moderat bagi anda. Ponsel ini memiliki layar 6.4 inci Super AMOLED  720 x 1560 pixels, 19.5:9 ratio (~268 ppi density) tetapi belum ada proteksinya. Untuk processor, dibekali chipset Exynos 7884 (14nm) dan GPU Mali-G71 MP2.
 

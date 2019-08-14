@@ -10,10 +10,8 @@ author: taufiktw
 image: assets/images/smartphone-2jt.png
 ---
 
-1. Oppo A5s 3/32GB 1.9 - 2.0jt
-2. Redmi Note 7 3/32GB
+
 3. Vivo Y93 3/32GB
-4. Samsung A20 3/32GB
 5. Huawei Y7 Pro 3/32GB
 
 
@@ -33,7 +31,7 @@ Spesifikasi lain di sektor layar IPS LCD FHD+ 6.3 inchi (~81.4%) 16M colors deng
 
 Selain itu, smartphone ini mengemas baterai berkapasitas besar 4000mAh, fast charging 18W dengan type port USB Type-C, dan tentunya belum ada NFC.
 
-### 2. Samsung Galaxy A30 (4GB/64GB)
+### 2. Oppo A5S (3GB/32GB)
 \*Release Maret 2019\*
 ``
 , Kisaran Harga : Rp2.7Jt - Rp2.9Jt
@@ -41,27 +39,23 @@ Selain itu, smartphone ini mengemas baterai berkapasitas besar 4000mAh, fast cha
 
 ![walking]({{ site.baseurl }}/assets/images/2-samsung-galaxy-a30.jpg)
 
-Samsung sepertinya tidak ingin kehilangan pangsa pasar kelas menengah dimana ditunjukkan dengan munculnya Galaxy A30, untuk menantang merk merk seperti Xiaomi, Vivo dan Oppo. Hal yang menarik dapat dilihat dari spesifikasi layar, mengusung layar Super AMOLED 6.4 inchi (~84.9% screen-to-body ratio) 16M colors dengan aspek ratio 19.5:9 ~403 ppi dan Corning Gorilla Glass 5 serta Chipset Exynos 7904 dengan GPU Mali-G71 MP2.
+Jika Anda bukan penggemar Xiaomi, maka Oppo A5S mungkin bisa menjadi pilihan anda. Ponsel ini memiliki layar 6.2 inci S-IPS LCD 720 x 1520 pixels, 19:9 ratio (~271ppi) dan sudah ada proteksi Corning Gorilla Glass 3. Untuk processor, dibekali chipset Mediatek MT6765 Helio P35 (12nm) dan GPU PowerVR GE8320.
 
-Sementara itu kamera belakang mengusung dual kamera 16MP+5MP ultrawide, sedangkan kamera depan mengusung 16MP. Selain itu ponsel ini dilengkapi dengan baterai 4000mAh yang mendukung fast charging 15W serta type port USB Type-C, serta tidak ada NFC. 
+Sementara itu kamera belakang mengusung dual kamera 13MP+2MP-depth sensor, sedangkan kamera depannya mengusung 8MP. Selain itu ponsel ini dilengkapi dengan baterai 4230mAh dengan type port microUSB dan juga belum ada NFC. 
 
-### 3. Asus ZenFone Max Pro (M2) (4GB/64GB)
-\*Release Desember 2018\*
+### 3. Samsung A20 (3GB/32GB)
+\*Release Maret 2019\*
 ``
-, Kisaran Harga : Rp2.9Jt
+, Kisaran Harga : Rp2.7Jt - Rp2.9Jt
 ``
 
-![walking]({{ site.baseurl }}/assets/images/3-zenfone-max-pro-m2.jpg)
+![walking]({{ site.baseurl }}/assets/images/2-samsung-galaxy-a30.jpg)
 
-Bisa dibilang Asus merespon tantangan Huawei untuk segmen ponsel gamers di kelas 3Jt-an, dimana pada Desember 2018 meluncurkan ZenFone Max Pro (M2) untuk menyasar segmentasi gamers kelas menengah, dengan tidak melupakan fitur kamera yang cukup mumpuni untuk menyaingin Huawei Nova 3i yang sudah release Agustus 2018.
+Jika Anda bukan penggemar Xiaomi dan Oppo, maka Samsung A20 bisa menjadi pilihan moderat bagi anda. Ponsel ini memiliki layar 6.4 inci Super AMOLED  720 x 1560 pixels, 19.5:9 ratio (~268 ppi density) tetapi belum ada proteksinya. Untuk processor, dibekali chipset Exynos 7884 (14nm) dan GPU Mali-G71 MP2.
 
-Dibekali dengan Chipset Snapdragon 660AIE dan GPU Adreno 512, layar IPS LCD FHD+ 6.3 inchi (~90% screen-to-body ratio) 16M colors dengan aspek ratio 19:9 ~403 ppi dan Corning Gorilla Glass 6 cukup sebagai senjatanya.
+Kamera belakang mengusung dual kamera 13MP+5MP-ultra wide, sedangkan kamera depannya mengusung 8MP. Sedangkan untuk urusan baterai, ponsel ini dilengkapi dengan baterai 4000mAh dengan type port USB Type-C, fast charging 15W.
 
-Spesifikasi kameranya hanya sedikit dibawah Samsung Galaxy A30, yaitu 12MP+5MP depth sensor serta kamera depan 13MP.
-
-Salah satu faktor kelebihan ponsel ini adalah kapasitas batterynya sudah 5000mAh, sayangnya masih menggunakan type port micro-USB serta fast chargingnya masih 10W dan lagi lagi belum ada NFC.
-
-### 4. Oppo F11 (4GB/64GB)
+### 4. Huawei Y7 Pro (3GB/32GB)
 \*Release Mei 2019\*
 ``
 , Kisaran Harga : Rp2.9Jt

@@ -28,7 +28,7 @@ Selain itu, smartphone ini mengemas baterai berkapasitas besar 4000mAh, fast cha
 ### 2. Oppo A5S (3GB/32GB)
 \*Release Maret 2019\*
 ``
-, Kisaran Harga : Rp2.7Jt - Rp2.9Jt
+, Kisaran Harga : Rp1.9Jt - Rp2.0Jt
 ``
 
 ![walking]({{ site.baseurl }}/assets/images/3-oppo-a5s.jpg)
@@ -40,7 +40,7 @@ Sementara itu kamera belakang mengusung dual kamera 13MP+2MP-depth sensor, sedan
 ### 3. Samsung A20 (3GB/32GB)
 \*Release Maret 2019\*
 ``
-, Kisaran Harga : Rp2.7Jt - Rp2.9Jt
+, Kisaran Harga : Rp1.9Jt - Rp2.0Jt
 ``
 
 ![walking]({{ site.baseurl }}/assets/images/3-samsung-a20.jpg)
@@ -52,7 +52,7 @@ Kamera belakang mengusung dual kamera 13MP+5MP-ultra wide, sedangkan kamera depa
 ### 4. Huawei Y7 Pro (3GB/32GB)
 \*Release Januari 2019\*
 ``
-, Kisaran Harga : Rp2.9Jt
+, Kisaran Harga : Rp1.7Jt - 1.9Jt
 ``
 
 ![walking]({{ site.baseurl }}/assets/images/3-huawei-y7-pro.jpg)
@@ -64,7 +64,7 @@ Sisi layarnya IPS LCD 6.26 inchi (~80.0% screen-to-body ratio) 16M colors 720x15
 ### 5. Vivo Y93 (3GB/32GB)
 \*Release November 2018\*
 ``
-, Kisaran Harga : Rp3.0Jt
+, Kisaran Harga : Rp1.7Jt - 1.8Jt
 ``
 
 ![walking]({{ site.baseurl }}/assets/images/3-vivo-y93.jpg)

@@ -63,11 +63,9 @@ Kamera belakang mengusung dual kamera 13MP+5MP-ultra wide, sedangkan kamera depa
 
 ![walking]({{ site.baseurl }}/assets/images/4-oppo-f11.png)
 
-Mengikuti Xiaomi, Oppo juga mengeluarkan produk dengan mengusung dual kamera belakang 48MP+5MP depth sensor dan kamera depan 16MP. Akan tetapi chipset yang digunakan tidak sebagus Redmi Note 7, Oppo F11 hanya dibekali Mediatek Helio P70 (12nm) dan GPU Mali-G72 MP3.
+Cerdik juga cara Huwei memberi nama, dengan embel embel pro, mungkin orang akan menganggap bahwa ponsel kelasnya lebih baik dibandingkan lainnya. Huawei Y7 Pro, dilengkapi dengan chipset Snapdragon 450 (14nm) dan GPU Adreno 506.
 
-Selain itu ponsel ini memiliki layar besar LTPS IPS LCD 6.53 inchi (~85.3% screen-to-body ratio) 16M colors dengan aspek ratio 19.5:9 ~394ppi, tetapi belum Corning Gorilla Glass.
-
-Salah satu faktor kelebihan ponsel ini adalah kapasitas batterynya sudah cukup besar 4020mAh, sayangnya masih menggunakan type port micro-USB tapi fitur fast chargingnya sudah 20W (VOOC 3.0) paling tinggi speknya dibandingkan ponsel di kelas ini, selain itu belum ada NFC.
+Sisi layarnya IPS LCD 6.26 inchi (~80.0% screen-to-body ratio) 16M colors 720x1520pixels, 19:9 ratio (~269ppi). Kamera belakang dual kamera 13MP+2MP-depth sensor dan kamera depannya 16MP. Selain itu, di sector baterai memiliki 4000mAh, menggunakan type port micro-USB dengan fitur fast chargingnya 10W.
 
 ### 5. Vivo Z1 Pro (4GB/64GB)
 \*Release Juli 2019\*

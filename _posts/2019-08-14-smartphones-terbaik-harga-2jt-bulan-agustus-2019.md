@@ -1,7 +1,7 @@
 ---
 title: Smartphones Terbaik Harga Dibawah 2Jt Bulan Agustus 2019 
-published: false
-date: 2019-08-13T00:00:00.000Z
+published: true
+date: 2019-08-14T00:00:00.000Z
 categories:
   - Gadget
   - Smartphones
@@ -17,7 +17,7 @@ Mencari ponsel yang terjangkau karena Anda tidak memiliki anggaran yang besar at
 , Kisaran Harga: Rp1.9Jt - Rp2.0Jt
 ``
 
-![walking]({{ site.baseurl }}/assets/images/1-xiaomi-redmi-note-7.jpg)
+![walking]({{ site.baseurl }}/assets/images/3-redmi-note-7.jpg)
 
 Redmi Note 7 yang dirilis global pada bulan Januari 2019 untuk saat ini masih menjadi favorit di ponsel dengan kategori harga dibawah 2Jt. Ponsel ini sangat menarik karena pembeda harga nya hanya kapasitas RAM dan Memory, dimana untuk harga 2Jt, hanya dibekali 3GB RAM dan storage internal 32GB.
 

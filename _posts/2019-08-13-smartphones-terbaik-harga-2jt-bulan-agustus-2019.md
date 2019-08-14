@@ -1,5 +1,5 @@
 ---
-title: Smartphones Terbaik Harga 2Jt-an Bulan Agustus 2019 
+title: Smartphones Terbaik Harga Dibawah 2Jt Bulan Agustus 2019 
 published: false
 date: 2019-08-13T00:00:00.000Z
 categories:
@@ -9,33 +9,29 @@ layout: post
 author: taufiktw
 image: assets/images/smartphone-2jt.png
 ---
+
 1. Oppo A5s 3/32GB 1.9 - 2.0jt
 2. Redmi Note 7 3/32GB
 3. Vivo Y93 3/32GB
 4. Samsung A20 3/32GB
-5.
+5. Huawei Y7 Pro 3/32GB
 
 
+Mencari ponsel yang terjangkau karena Anda tidak memiliki anggaran yang besar atau Anda tidak peduli dengan semua fitur mewah yang tersedia di perangkat yang lebih mahal? Lanjutkan membaca artikel ini untuk menemukan 5 smartphone android teratas yang bisa Anda dapatkan dengan range harga 2Jt kebawah!
 
-
-
-Daftar smartphone android di range harga 3jt cukup menarik, imbas penurunan harga yang disebabkan karena munculnya beberapa tipe baru yang seolah olah membuat stok produk lama harus segera dihabiskan, kondisi ini merupakan berita bagus bagi anda, yang artinya pilihan ponsel dengan budget minimal bisa mendapatkan spek yang lumayan bagus. Jadi, jika Anda mencari Smartphone Android di range harga 3 Jt, maka lanjutkan baca postingan ini !
-
-### 1. Xiaomi Redmi Note 7 (4GB/64GB)
+### 1. Redmi Note 7 (3GB/32GB)
 \*Release Januari 2019\*
 ``
-, Kisaran Harga: Rp2.7Jt - Rp2.9Jt
+, Kisaran Harga: Rp1.9Jt - Rp2.0Jt
 ``
 
 ![walking]({{ site.baseurl }}/assets/images/1-xiaomi-redmi-note-7.jpg)
 
-Mari kita mulai dengan `flagship` kelas menengah yang masih tak terbantahkan yang diluncurkan oleh sub-merek Xiaomi - Redmi Note 7. Perangkat ini dilengkapi dengan layar IPS LCD FHD+ 6.3 inchi (~81.4% screen-to-body ratio) 16M colors dengan aspek ratio 19.5:9 ~409 ppi dan Corning Gorilla Glass 5.
+Redmi Note 7 yang dirilis global pada bulan Januari 2019 untuk saat ini masih menjadi favorit di ponsel dengan kategori harga dibawah 2Jt. Ponsel ini sangat menarik karena pembeda harga nya hanya kapasitas RAM dan Memory, dimana untuk harga 2Jt, hanya dibekali 3GB RAM dan storage internal 32GB.
 
-Di bawah bodi Corning Gorilla Glass 5 yang mengkilap dan berkilau, kemudian chipset Snapdragon 660 dan GPU Adreno 512.
+Spesifikasi lain di sektor layar IPS LCD FHD+ 6.3 inchi (~81.4%) 16M colors dengan aspek ratio 19.5:9 ~409 ppi dan Corning Gorilla Glass 5, kemudian chipset Snapdragon 660 dan GPU Adreno 512. Kamera belakang dual 48MP+5MP dan kamera depan 13MP.
 
-Titik penjualan utama perangkat ini adalah kamera belakang, mengusung dual kamera datang dengan resolusi 48MP+5MP depth sensor, Redmi Note 7 tidak memiliki saingan dalam kisaran harga. Kamera belakang dual 48MP+5MP memberikan foto yang sangat tajam saat subjek menyala dengan baik, sementara dalam skenario yang lebih gelap piksel digabungkan menjadi 1,6um yang lebih besar untuk kualitas yang lebih baik. Di bagian depan, kamera selfie 13MP.
-
-Selain itu, smartphone ini mengemas baterai berkapasitas besar 4000mAh, fast charging 18W dengan type port USB Type-C, hanya saja sayangnya belum ada NFC.
+Selain itu, smartphone ini mengemas baterai berkapasitas besar 4000mAh, fast charging 18W dengan type port USB Type-C, dan tentunya belum ada NFC.
 
 ### 2. Samsung Galaxy A30 (4GB/64GB)
 \*Release Maret 2019\*

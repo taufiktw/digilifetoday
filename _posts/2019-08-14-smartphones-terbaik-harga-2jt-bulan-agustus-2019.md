@@ -1,5 +1,5 @@
 ---
-title: Smartphones Terbaik Harga Dibawah 2Jt Bulan Agustus 2019 
+title: Smartphones Terbaik Harga 2Jt-an Bulan Agustus 2019 
 published: true
 date: 2019-08-14T00:00:00.000Z
 categories:

@@ -14,7 +14,7 @@ defaults:
   values:
     layout: post
     author: taufiktw
-    avatar: assets/images/avatar3.jpg
+    avatar: "assets/images/avatar3.jpg"
 - scope:
     path: _pages
   values:

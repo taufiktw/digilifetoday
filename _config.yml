@@ -14,7 +14,7 @@ defaults:
   values:
     layout: post
     author: taufiktw
-    avatar: "assets/images/avatar3.jpg"
+    avatar: assets/images/avatar3.jpg
 - scope:
     path: _pages
   values:
@@ -39,7 +39,7 @@ authors:
   taufiktw:
     name: taufiktw
     site: https://digilifetoday.com
-    avatar: "assets/images/avatar3.jpg"
+    avatar: assets/images/avatar3.jpg
     bio: Hi, I am Taufiktw, the author of Digilifetoday, I hope you like it!
     email: taufiktw@gmail.com
     twitter: https://twitter.com/digilifetod4ay

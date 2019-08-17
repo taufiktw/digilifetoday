@@ -64,7 +64,7 @@ Urusan fotografi dibekali dengan dual kamera belakang 48MP+5MP(depth sensor) ser
 
 Kapasitas batterynya 4000mAh, dukungan fast charging 20W (VOOC 3.0)dan herannya ponsel ini juga belum dilengkapi NFC padahal di range harga yang cukup mahal.
 
-### 5. Xaiomi Pocophone F1 (6GB/128GB)
+### 5. Xiaomi Pocophone F1 (6GB/128GB)
 \*Release Agustus 2018\*
 ``
 , Kisaran Harga : Rp4.6Jt - 4.9Jt

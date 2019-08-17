@@ -1,7 +1,7 @@
 ---
 title: Smartphones Pilihan Harga 5Jt-an Bulan Agustus 2019
 published: true
-date: 2019-08-17T00:00:00.000Z
+date: 2019-08-17T00:00:10.000Z
 categories:
   - Gadget
   - Smartphones

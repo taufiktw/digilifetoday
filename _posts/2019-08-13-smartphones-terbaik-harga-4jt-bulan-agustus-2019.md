@@ -56,7 +56,7 @@ Kapasitas batterynya 4000mAh fast charging, hanya saja sayangnya masih menggunak
 
 ![walking]({{ site.baseurl }}/assets/images/2-oppo-k3.jpg)
 
-Oppo juga mengeluarkan produk baru di agustus 2019 dengan spesifikasi yang ditawarkan Chipset Snapdragon Snapdragon 710 (10 nm) dan GPU Adreno 616, layar IPS LCD FHD+ 6.5 inchi 1020x2340 pixels (~85.5% screen-to-body ratio) 16M colors dengan aspek ratio 19.5:9 ~394ppi dan Corning Gorilla Glass 5.
+Oppo juga mengeluarkan produk baru di agustus 2019 dengan spesifikasi yang ditawarkan Chipset Snapdragon 710 (10 nm) dan GPU Adreno 616, layar IPS LCD FHD+ 6.5 inchi 1020x2340 pixels (~85.5% screen-to-body ratio) 16M colors dengan aspek ratio 19.5:9 ~394ppi dan Corning Gorilla Glass 5.
 
 Sector fotografi inferior dibanding lainnya, karena hanya dibekali dengan dual kamera belakang 16MP+2MP(depth sensor) serta kamera depan 16MP(motorized pop-up).
 

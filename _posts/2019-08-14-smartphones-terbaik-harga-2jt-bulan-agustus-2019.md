@@ -49,7 +49,20 @@ Jika Anda bukan penggemar Xiaomi dan Oppo, maka Samsung A20 bisa menjadi pilihan
 
 Kamera belakang mengusung dual kamera 13MP+5MP-ultra wide, sedangkan kamera depannya mengusung 8MP. Sedangkan untuk urusan baterai, ponsel ini dilengkapi dengan baterai 4000mAh dengan type port USB Type-C, fast charging 15W.
 
-### 4. Huawei Y7 Pro (3GB/32GB)
+
+### 4. Asus Zenfone Max Pro M1 (3GB/32GB)
+\*Release Mei 2018\*
+``
+, Kisaran Harga : Rp1.9Jt - 2.0Jt
+``
+
+![walking]({{ site.baseurl }}/assets/images/3-asus-zenfone-max-pro-m1.jpg)
+
+Ponsel ini sebetulnya adalah produk tahun lalu, tetapi spesifikasi yang diusung bisa dijejerkan dengan ponsel 2019 di range harga 2Jt. Dibekali Chipset Qualcomm Snapdragon 636 dan GPU Adreno 509, layar IPS LCD HD+ 5.99 inchi 1080x2160pixels, 18:9 ratio (~404ppi) 16M colors.
+
+Kamera belakang dual kamera 13MP+5MP-depth sensor dan kamera depannya 8MP. Selain itu, baterainya memiliki kapasitas 5000mAh, menggunakan type port micro-USB dan fast charging 10W.
+
+### 5. Huawei Y7 Pro (3GB/32GB)
 \*Release Januari 2019\*
 ``
 , Kisaran Harga : Rp1.7Jt - 1.9Jt
@@ -57,18 +70,11 @@ Kamera belakang mengusung dual kamera 13MP+5MP-ultra wide, sedangkan kamera depa
 
 ![walking]({{ site.baseurl }}/assets/images/3-huawei-y7-pro.jpg)
 
-Cerdik juga cara Huwei memberi nama, dengan embel embel pro, mungkin orang akan menganggap bahwa ponsel kelasnya lebih baik dibandingkan lainnya. Huawei Y7 Pro, dilengkapi dengan chipset Snapdragon 450 (14nm) dan GPU Adreno 506.
+Cerdik juga cara Huwei memberi nama, dengan embel embel pro, mungkin orang akan menganggap bahwa ponsel kelasnya lebih baik dibandingkan lainnya. Hanya saja aktualnya, spesifikasi yang diusung tidak terlalu pro. Huawei Y7 Pro, dilengkapi dengan chipset Snapdragon 450 (14nm) dan GPU Adreno 506.
 
 Sisi layarnya IPS LCD 6.26 inchi (~80.0% screen-to-body ratio) 16M colors 720x1520pixels, 19:9 ratio (~269ppi). Kamera belakang dual kamera 13MP+2MP-depth sensor dan kamera depannya 16MP. Selain itu, spesifikasi baterai memiliki 4000mAh, menggunakan type port micro-USB dengan fitur fast chargingnya 10W.
 
-### 5. Vivo Y93 (3GB/32GB)
-\*Release November 2018\*
-``
-, Kisaran Harga : Rp1.7Jt - 1.8Jt
-``
 
-![walking]({{ site.baseurl }}/assets/images/3-vivo-y93.jpg)
+`Update 17 AGUSTUS 2019`, ponsel yang sebelumnya yang masuk dalam kategori smartphones terbaik harga 2jt an :
 
-Ponsel ini sebetulnya mulai dikenalkan global bulan November 2018, hanya saja kalau buka websitenya Vivo, maka akan ada keterangan produk Vivo Y93 (2019), tidak tahu juga maksudnya apa. Hanya saja kita coba bahas spesifikasinya. Mengemas Chipset Qualcomm Snapdragon 439 dan GPU Adreno 505, layar IPS LCD HD+ 6.22 inchi 720x1520pixels, 19:9 ratio (~271ppi) 16M colors.
-
-Kamera belakang dual kamera 13MP+2MP-depth sensor dan kamera depannya 8MP. Selain itu, baterainya memiliki kapasitas 4030mAh, menggunakan type port micro-USB.
++ ~~Vivo Y93~~

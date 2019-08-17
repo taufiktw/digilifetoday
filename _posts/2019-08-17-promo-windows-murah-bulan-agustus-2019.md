@@ -6,7 +6,7 @@ categories:[Software]
 layout: post
 author: taufiktw
 image: assets/images/windows.jpg
-tags: sticky
+tags: [sticky]
 ---
 
 Jika mungkin ada belum tahu, sekarang sedang ada promo diskon lumayan besar untuk produk original Microsoft melalui salah satunya portal Belanja Online blilbi.com

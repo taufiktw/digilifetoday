@@ -70,7 +70,7 @@ Kapasitas batterynya sudah cukup kecil dibandingkan saingan lain yang hanya 3765
 
 ![walking]({{ site.baseurl }}/assets/images/2-realme-3-pro.jpg)
 
-Ponsel terakhir di range harga 4Jt, satu ponsel besutan sub-brand Oppo electronic, mencoba keberuntungan untuk ikut dalam persaingan. Berbekal Chipset Snapdragon Snapdragon 710 (10 nm) dan GPU Adreno 616, layar IPS LCD FHD+ 6.3 inchi 1020x2340 pixels (~83.7% screen-to-body ratio) 16M colors dengan aspek ratio 19.5:9 ~409 ppi dan Corning Gorilla Glass 5.
+Ponsel terakhir di range harga 4Jt, satu ponsel besutan sub-brand Oppo electronic, mencoba keberuntungan untuk ikut dalam persaingan. Berbekal Chipset Snapdragon 710 (10 nm) dan GPU Adreno 616, layar IPS LCD FHD+ 6.3 inchi 1020x2340 pixels (~83.7% screen-to-body ratio) 16M colors dengan aspek ratio 19.5:9 ~409 ppi dan Corning Gorilla Glass 5.
 
 Kamera belakang dual 16MP+5MP(depth sensor) serta kamera depan 25MP. Di sector battery, ponsel ini memiliki battery 4045mAh fast charging 20W (VOOC 3.0), hanya saja sayangnya masih menggunakan type port micro-USB serta fast chargingnya masih 10W dan sayangnya belum ada NFC.
 

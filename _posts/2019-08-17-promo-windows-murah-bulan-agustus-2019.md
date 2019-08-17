@@ -7,7 +7,7 @@ categories:
   - Smartphones
 layout: post
 author: taufiktw
-image: assets/images/windows.png
+image: assets/images/windows.jpg
 tags: sticky
 ---
 

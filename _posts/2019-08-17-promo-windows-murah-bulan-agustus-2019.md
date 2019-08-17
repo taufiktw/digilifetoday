@@ -22,5 +22,5 @@ dimana jika sesuai dengan websitenya mendapat diskon 50%, dari harga awal 700Rp 
 - Lisensi berlaku untuk 1 Device/ PC
 ```
 Ada banyak produk yang ditawarkan, tinggal dipilih yang sesuai dengan kebutuhan anda.
-Jika mungkin saat sekarang ada masih menggunakan produk Microsoft Non Original, mungkin sekarang adalah waktu yg tepat untuk menggantinya dengan produk Microsoft Original sehingga semoga dengan begitu menjadi lebih berkah
+Jika mungkin saat sekarang ada masih menggunakan produk Microsoft Non Original, mungkin sekarang adalah waktu yg tepat untuk menggantinya dengan produk Microsoft Original sehingga semoga dengan begitu menjadi lebih berkah.
 Ingat, promo akan berlaku sampai `25 Agustus 2019` saja ya.

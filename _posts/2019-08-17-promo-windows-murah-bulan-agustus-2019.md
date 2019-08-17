@@ -4,7 +4,6 @@ published: true
 date: 2019-08-17T00:00:00.000Z
 categories:
   - Software
-  - Smartphones
 layout: post
 author: taufiktw
 image: assets/images/windows.jpg

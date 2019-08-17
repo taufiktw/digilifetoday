@@ -2,7 +2,8 @@
 title: Promo Windows Original Murah Agustus 2019
 published: true
 date: 2019-08-17T00:00:00.000Z
-categories:Software
+categories:
+-Software
 layout: post
 author: taufiktw
 image: assets/images/windows.jpg
